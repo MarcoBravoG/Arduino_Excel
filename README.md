@@ -9,5 +9,5 @@ Materiales:
 -	Protoboard
 -	Cables machos
 -	Cable miniusb
--	Software Arduino
--	Software Excel
+-	Software Arduino 1.8.8
+-	Software Excel 2016
